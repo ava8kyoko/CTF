@@ -9,7 +9,7 @@ Lists of CTF and writeups repositories.
 - [RingZer0](https://ringzer0ctf.com/challenges)
 - [TryHackMe](https://tryhackme.com/)
 
-## Favorite CTF
+## Favorite CTFs
 - [CTFtime - Upcoming CTFs](https://ctftime.org/event/list/upcoming)
 - [Hackfest - CTF and talks](https://hackfest.ca/)
 - [NorthSec - CTF and talks](https://nsec.io/)
