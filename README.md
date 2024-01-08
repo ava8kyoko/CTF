@@ -16,7 +16,4 @@ Lists of CTF and writeups repositories.
 - [Bsides Montreal - talks](https://bsidesmtl.ca/)
 - [Bsides Ottawa - CTF and talks](https://bsidesottawa.ca/)
 - [Cyber Security Rumble](https://cybersecurityrumble.de/)
-------
 
-## Writeups from my repositories
-- Hackfest
